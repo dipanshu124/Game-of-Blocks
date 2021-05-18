@@ -1,4 +1,4 @@
-# Block-of-Games
+# Game of Blocks
 
 Previous Project done: Google Summer of Code 2020
 
