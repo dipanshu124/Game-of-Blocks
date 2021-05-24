@@ -1,7 +1,7 @@
 import hashlib
 import random
 var = input("Provide a string\n")
-target = 0x0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+target = 0x00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 it = 0
 #Randomly check for possible nonce value
 while it < 10000000 :
